@@ -4,4 +4,4 @@
 
 A sample project that shows how to use the new feature *Google App Invites* in order to increase an app audience out of the box, thanks to a very powerful recommendation system.
 
-**Availabe from 120/11/2015**
+**Available from 20/11/2015**
